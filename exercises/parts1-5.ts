@@ -1,6 +1,6 @@
 // URL for the instructions: 
 // https://education.launchcode.org/intro-to-professional-web-dev/chapters/typescript/exercises.html 
-import { SpaceLocation } from './SpaceLocation.js';
+import { SpaceLocation } from './SpaceLocation';
 
 // Part 1: Declare (5) Variables With Type
 let kilometersToMars: number = 225000000;
